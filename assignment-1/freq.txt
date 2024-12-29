@@ -1,0 +1,6 @@
+naruto->3
+bhawani->3
+kakashi->2
+sasuke->2
+orochimaru->1
+sakura->1
